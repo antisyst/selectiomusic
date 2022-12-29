@@ -1,0 +1,278 @@
+[
+    {
+      "name": "Franco Armani",
+      "year": "1986",
+      "username": "franco",
+      "username2": "armani",
+      "Month": "October",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "1",
+      "Position": "GOALKEPPER"
+      
+    },
+    {
+      "name": "Geronimo Rulli",
+      "year": "1992",
+      "username": "geronimo",
+      "username2": "rulli",
+      "Month": "May",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "12",
+      "Position": "GOALKEPPER"
+    },
+    {
+      "name": "Emiliano Martínez",
+      "year": "1992",
+      "username": "emiliano",
+      "username2": "martínez",
+      "Month": "September",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "23",
+      "Position": "GOALKEPPER"
+    },
+    {
+      "name": "Juan Foyth",
+      "year": "1998",
+      "username": "juan",
+      "username2": "foyth",
+      "Month": "January",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "2",
+      "Position": "DEFENDER"
+    },
+    {
+      "name": "Nicolas Tagliafico",
+      "year": "1992",
+      "username": "nicolas",
+      "username2": "tagliafico",
+      "Month": "August",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "3",
+      "Position": "DEFENDER"
+    },
+    {
+      "name": "Gonzalo Montiel",
+      "year": "1997",
+      "username": "gonzalo",
+      "username2": "montiel",
+      "Month": "January",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "4",
+      "Position": "DEFENDER"
+    },
+    {
+      "name": "German Pezzella",
+      "year": "1991",
+      "username": "german",
+      "username2": "pezzella",
+      "Month": "June",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "6",
+      "Position": "DEFENDER"
+    },
+    {
+      "name": "Cristian Romero",
+      "year": "1998",
+      "username": "cristian",
+      "username2": "romero",
+      "Month": "April",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "13",
+      "Position": "DEFENDER"
+    },
+    {
+      "name": "Nicolas Otamendi",
+      "year": "1988",
+      "username": "nicolas",
+      "username2": "otamendi",
+      "Month": "February",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "19",
+      "Position": "DEFENDER"
+    },
+    {
+      "name": "Lisandro Martínez",
+      "year": "1998",
+      "username": "lisandro",
+      "username2": "martinez",
+      "Month": "January",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "25",
+      "Position": "DEFENDER"
+    },
+    {
+      "name": "Nahuel Molina",
+      "year": "1998",
+      "username": "nahuel",
+      "username2": "molina",
+      "Month": "April",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "26",
+      "Position": "DEFENDER"
+    },
+    {
+      "name": "Leandro Paredes",
+      "year": "1994",
+      "username": "leandro",
+      "username2": "paredes",
+      "Month": "June",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "5",
+      "Position": "MIDFIELDER"
+    },
+    {
+      "name": "Rodrigo De Paul",
+      "year": "1994",
+      "username": "rodrigo",
+      "username2": "paul",
+      "Month": "May",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "7",
+      "Position": "MIDFIELDER"
+    },
+    {
+      "name": "Marcos Acuña",
+      "year": "1991",
+      "username": "marcos",
+      "username2": "acuna",
+      "Month": "October",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "8",
+      "Position": "MIDFIELDER"
+    },
+    {
+      "name": "Exequiel Palacios",
+      "year": "1998",
+      "username": "exequiel",
+      "username2": "palacios",
+      "Month": "October",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "14",
+      "Position": "MIDFIELDER"
+    },
+    {
+      "name": "Thiago Almada",
+      "year": "2001",
+      "username": "thiago",
+      "username2": "almada",
+      "Month": "April",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "16",
+      "Position": "MIDFIELDER"
+    },
+    {
+      "name": "Alejandro Darío Gómez",
+      "year": "1988",
+      "username": "alejandro",
+      "username2": "gomez",
+      "Month": "February",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "17",
+      "Position": "MIDFIELDER"
+    },
+    {
+      "name": "Guido Rodríguez",
+      "year": "1994",
+      "username": "guido",
+      "username2": "rodríguez",
+      "Month": "April",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "18",
+      "Position": "MIDFIELDER"
+    },
+    {
+      "name": "Alexis Mac Allister",
+      "year": "1998",
+      "username": "alexis",
+      "username2": "allister",
+      "Month": "December",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "20",
+      "Position": "MIDFIELDER"
+    },
+    {
+      "name": "Enzo Fernández",
+      "year": "1998",
+      "username": "enzo",
+      "username2": "fernandez",
+      "Month": "January",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "24",
+      "Position": "MIDFIELDER"
+    },
+    {
+      "name": "Julián Álvarez",
+      "year": "2000",
+      "username": "julian",
+      "username2": "alvarez",
+      "Month": "January",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "9",
+      "Position": "FORWARD"
+    },
+    {
+      "name": "Angel Di María",
+      "year": "1988",
+      "username": "angel",
+      "username2": "maria",
+      "Month": "February ",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "11",
+      "Position": "FORWARD"
+    },
+    {
+      "name": "Paulo Dybala",
+      "year": "1993",
+      "username": "paulo",
+      "username2": "dybala",
+      "Month": "November",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "21",
+      "Position": "FORWARD"
+    },
+    {
+      "name": "Lionel Messi",
+      "year": "1987",
+      "username": "lionel",
+      "username2": "messi",
+      "Month": "June",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "10",
+      "Position": "FORWARD"
+    },
+    {
+      "name": "Lautaro Martínez",
+      "year": "1997",
+      "username": "lautaro",
+      "username2": "martinez",
+      "Month": "August",
+      "Country": "Argentina",
+      "Country2": "argentina",
+      "Number": "22",
+      "Position": "FORWARD"
+    }
+  ]
